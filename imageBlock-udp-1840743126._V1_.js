@@ -1,3 +1,7 @@
+
+Tryign to edit .......................................................................
+
+
 P.when("A","jQuery").register("imageBlockLogger",function(A,$){window.ImageBlockclientLogger=function(feature,forceUpload){var self=this,data={},vips={"www.amazon.com":"fls-na","devo":"fls-devo.vipinteg"};
 self.logSingleton=function(key){data[key]=1;
 };
